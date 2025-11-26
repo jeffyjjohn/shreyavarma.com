@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage - Highest priority -->
+  <url>
+    <loc>https://shreyavarma.com/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Services - Core service page -->
+  <url>
+    <loc>https://shreyavarma.com/services</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- About Me - Professional profile -->
+  <url>
+    <loc>https://shreyavarma.com/about</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Contact - Key conversion page -->
+  <url>
+    <loc>https://shreyavarma.com/contact</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Articles - Content hub, updated frequently -->
+  <url>
+    <loc>https://shreyavarma.com/articles</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Resources - Educational content -->
+  <url>
+    <loc>https://shreyavarma.com/resources</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Privacy Policy - Legal requirement -->
+  <url>
+    <loc>https://shreyavarma.com/privacy-policy</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <!-- Terms and Conditions - Legal requirement -->
+  <url>
+    <loc>https://shreyavarma.com/tnc</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
