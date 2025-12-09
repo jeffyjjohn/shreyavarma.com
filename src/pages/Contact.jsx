@@ -7,8 +7,8 @@ function Contact() {
     <>
       {/* SEO meta tags for contact page */}
       <Helmet>
-        <title>Contact - Shreya Varma | Clinical Psychologist, Delhi</title>
-        <meta name="description" content="Get in touch with Shreya Varma for psychotherapy services and consultations in Delhi." />
+        <title>Contact - Shreya Varma | Clinical Psychologist, South Delhi</title>
+        <meta name="description" content="Get in touch with Shreya Varma for psychotherapy services and consultations in South Delhi." />
       </Helmet>
 
       <motion.div
