@@ -40,7 +40,7 @@ function AboutMe() {
       {/* SEO meta tags */}
       <Helmet>
         <title>About Me - Shreya Varma</title>
-        <meta name="description" content="Learn about Shreya Varma's journey and experience as a clinical psychologist and psychoanalytic therapist in Delhi." />
+        <meta name="description" content="Learn about Shreya Varma's journey and experience as a clinical psychologist and psychoanalytic therapist in South Delhi." />
       </Helmet>
 
       <motion.div
@@ -51,7 +51,7 @@ function AboutMe() {
       >
         {/* Main page heading - always use a single h1 for SEO and accessibility */}
         <div className="flex items-center gap-4 mb-8">
-          <h1 className="text-xs text-white">About Me – Clinical Psychologist & Psychoanalytic Psychotherapist in Delhi</h1>
+          <h1 className="text-xs text-white">About Me – Clinical Psychologist & Psychoanalytic Psychotherapist in South Delhi</h1>
         </div>
 
         <div className="prose prose-lg max-w-none">
