@@ -18,10 +18,10 @@ function Home() {
       >
         <div className="prose prose-lg max-w-none">
           {/* Add H1 at the top */}
-          <h1 className="text-xs text-white">Shreya Varma – Clinical Psychologist & Psychoanalytic Psychotherapist in Delhi</h1>
+          <h1 className="text-xs text-white">Shreya Varma – Clinical Psychologist & Psychoanalytic Psychotherapist in South Delhi</h1>
 
            <p className="text-gray-900 leading-relaxed mb-6">
-            I am Shreya Varma, a licensed Clinical Psychologist and Psychoanalytic Psychotherapist based in New Delhi. With over a decade of experience in the field, I provide psychotherapy, consultations, psychological assessments, and supervision services.
+            I am Shreya Varma, a licensed Clinical Psychologist and Psychoanalytic Psychotherapist based in South Delhi. With over a decade of experience in the field, I provide psychotherapy, consultations, psychological assessments, and supervision services.
           </p>
 
            <p className="text-gray-900 leading-relaxed mb-6">
