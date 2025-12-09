@@ -54,7 +54,7 @@ function Footer() {
               Location
             </h3>
             <p className="text-sm text-gray-600 tracking-wide mb-4">
-              Delhi, India
+              South Delhi, India
             </p>
           <div>
             <h3 className="text-sm font-semibold text-gray-900 tracking-wide mb-4">
