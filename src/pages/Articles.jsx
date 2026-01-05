@@ -111,7 +111,12 @@ function Articles() {
                 <img
                   src={article.thumbnail}
                   alt={article.title}
-                  className={`w-full h-full group-hover:scale-105 transition-transform duration-300 ${isLogoThumb(article) ? "object-contain bg-white p-6" : "object-cover"}`}
+                  width={400}
+                  height={160}
+                  loading="lazy"
+                  className={`w-full h-full group-hover:scale-105 transition-transform duration-300 ${
+                    isLogoThumb(article) ? 'object-contain bg-white p-6' : 'object-cover'
+                  }`}
                 />
               </div>
               <div className="p-4 flex flex-col flex-grow">
