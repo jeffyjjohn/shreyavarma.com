@@ -75,6 +75,9 @@ function Resources() {
         <img
           src={resource.thumbnail}
           alt={resource.name}
+          width={192}
+          height={128}
+          loading="lazy"
           className="w-48 h-32 object-contain transition-transform duration-300 group-hover:scale-105"
         />
       </div>
