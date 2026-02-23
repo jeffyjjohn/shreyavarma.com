@@ -58,7 +58,7 @@ function Contact() {
                 </div>
                 <div>
                   <div className="flex gap-3">
-                    <a href="https://www.linkedin.com/in/shreyavarma" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition-colors text-sm">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/shreya-varma/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition-colors text-sm">LinkedIn</a>
                     <a href="https://wa.me/919999746949" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition-colors text-sm">WhatsApp</a>
                   </div>
                 </div>
