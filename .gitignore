@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+# Note: dist/ is tracked in this repo, but we exclude new build artifacts
+dist/Montserrat-*.woff2
+dist/Website_Thumbnail.webp
+dist/assets/*-D7o7qHpb.js
+dist/assets/*-l0sNRNKZ.js
+dist/assets/*-B4GHXdEZ.js
+dist/assets/*-bwCYeQMh.js
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -2,6 +2,7 @@ import React, { useEffect, Suspense, lazy } from 'react';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import CookieConsent from 'react-cookie-consent';
 import ReactGA from 'react-ga4';
+import { Analytics } from '@vercel/analytics/react';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
@@ -75,6 +76,8 @@ function AppContent() {
       >
         This website uses cookies to enhance user experience and analyze traffic. By continuing to use this site, you consent to our use of cookies.
       </CookieConsent>
+
+      <Analytics />
     </>
   );
 }
